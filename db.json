@@ -1,0 +1,38 @@
+{
+    "recipes": [
+        {   
+            "id": 0,
+            "name": "egusi soup",
+            "location":"east",
+            "image":"",
+            "description":"sweet soup with bitterleaf and plenty assorted",
+            "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "ground Melon","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
+            "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
+            "preparation2":"",
+            "preparation3":""  
+        },
+        {   
+            "id": 1,
+            "name": "ogbonor soup",
+            "location":"east",
+            "image":"",
+            "description":"sticky soup with vegetables and plenty stock fish",
+            "ingredients":["ground ogbonor","Stockfish","Dry fish", "Crayfish", "smoked fish","maggi", "pepper","salt","onions", "palmoil", "water","vegetable"],
+            "preparation1":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins", 
+            "preparation2":"Add some more water and cook ingredients well, remove all meat and fish and set aside. Next add some oil in clean pot and heat for 3 minutes, fry the grounded ogbono for 3 minutes then add a little water and stir till ogbono melts.",
+            "preparation3": "Next add the cooked ingredients, more water if necessary, crayfish, maggi, pepper and salt. Cook for 15 minutes. Finally add vegetables and let simmer for 5 minutes. Serve hot with fufu, garri, pounded yam etc." 
+        },
+        {   
+            "id": 2,
+            "name": "okro soup",
+            "location":"east",
+            "image":"",
+            "description":"sticky soup with okra and plenty assorted meat and fish",
+            "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "okra","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
+            "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
+            "preparation2":"",
+            "preparation3":"" 
+        }
+    ]   
+    
+}
