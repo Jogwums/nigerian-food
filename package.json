@@ -1,0 +1,23 @@
+{
+  "name": "nigerian-food-api",
+  "version": "1.0.0",
+  "description": "nigerian-food-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jogwums/nigerian-food-api.git"
+  },
+  "author": "Jonathan Ogwumike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jogwums/nigerian-food-api/issues"
+  },
+  "homepage": "https://github.com/Jogwums/nigerian-food-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
