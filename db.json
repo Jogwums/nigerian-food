@@ -32,6 +32,17 @@
             "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
             "preparation2":"",
             "preparation3":"" 
+        },
+        {   
+            "id": 3,
+            "name": "banga soup",
+            "location":"east",
+            "image":"",
+            "description":"sticky soup with fresh palm oil and plenty assorted meat and fish",
+            "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "Palm oil","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
+            "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
+            "preparation2":"",
+            "preparation3":"" 
         }
     ]   
     
