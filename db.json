@@ -9,7 +9,8 @@
             "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "ground Melon","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
             "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
             "preparation2":"",
-            "preparation3":""  
+            "preparation3":"",
+            "sides":"garri, semo, plantain flour, amala, fufu, pounded yam"
         },
         {   
             "id": 1,
@@ -20,7 +21,8 @@
             "ingredients":["ground ogbonor","Stockfish","Dry fish", "Crayfish", "smoked fish","maggi", "pepper","salt","onions", "palmoil", "water","vegetable"],
             "preparation1":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins", 
             "preparation2":"Add some more water and cook ingredients well, remove all meat and fish and set aside. Next add some oil in clean pot and heat for 3 minutes, fry the grounded ogbono for 3 minutes then add a little water and stir till ogbono melts.",
-            "preparation3": "Next add the cooked ingredients, more water if necessary, crayfish, maggi, pepper and salt. Cook for 15 minutes. Finally add vegetables and let simmer for 5 minutes. Serve hot with fufu, garri, pounded yam etc." 
+            "preparation3": "Next add the cooked ingredients, more water if necessary, crayfish, maggi, pepper and salt. Cook for 15 minutes. Finally add vegetables and let simmer for 5 minutes. Serve hot with fufu, garri, pounded yam etc.",
+            "sides":"garri, semo, plantain flour, amala, fufu, pounded yam" 
         },
         {   
             "id": 2,
@@ -31,7 +33,8 @@
             "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "okra","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
             "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
             "preparation2":"",
-            "preparation3":"" 
+            "preparation3":"",
+            "sides":"garri, semo, plantain flour, amala, fufu, pounded yam"  
         },
         {   
             "id": 3,
@@ -42,7 +45,32 @@
             "ingredients":["Meat","Stockfish","Dry fish", "Crayfish", "Palm oil","maggi", "pepper","salt", "palmoil", "water","bitterleaf"],
             "preparation":"Wash the meat, stockfish and dried fish very well. Boil the meat and assorted fish in a pot, add small onions, salt and pepper, maggi and cook for 20 mins",
             "preparation2":"",
-            "preparation3":"" 
+            "preparation3":"",
+            "sides":"garri, semo, fufu, pounded yam" 
+        },
+        {   
+            "id": 4,
+            "name": "ofe nsala",
+            "location":"east",
+            "image":"",
+            "description":"sticky soup with cocoyam and plenty goat meat and assorted meats",
+            "ingredients":["Goat meat","Assorted meat","pounded yam","utazi","uziza", "Crayfish", "Onion","maggi", "pepper","salt", "palm oil", "water"],
+            "preparation":"Wash the goat meat very well and cut to pieces, put cut meat into pot nad add little onion, salt, pepper and maggi. Cook for 20 minutes. Do not add any water while cooking. After 20 minutes add some water so the meat will be well cooked.",
+            "preparation2":"When the meat is well cooked, add more water if necessary, add crayfish, more maggi, pepper and palm oil. Cook for 15 minutes, also add the thickner either ofo, achi or pounded yam (grounded). Boil for 10 minutes, add sliced utazi and uziza leaves then boil for 5 minutes. Server hot with garri, fufu, pounded yam etc.",
+            "preparation3":"",
+            "sides":"garri, fufu, pounded yam" 
+        },
+        {   
+            "id": 5,
+            "name": "bitterleaf soup",
+            "location":"east",
+            "image":"",
+            "description":"sticky soup with okra and plenty assorted meat and fish",
+            "ingredients":["Meat","smoked fish","Stockfish","Dry fish", "Crayfish", "okra","maggi","ogiri", "pepper","salt", "palmoil", "water","bitterleaf (wash well)","2 cooking spoons", "pounded cocoyam"],
+            "preparation":"Wash the meat, smoked fish, stockfish and dried fish very well and add small onion, salt, pepper and maggi and cook for 20 minutes. Add some water to ensure proper cooking. When the ingredients are well cooked add more water if necessary. Add crayfish, more maggi, pepper and palm oil. Cook for 15 minutes then add a little ogiri (optional). Add the thickner, pounded cocoyam or ofo, turn very well and cover. Cook for 10 minutes then add the bitterleaf, cook some more (5 minutes). Serve with swallow of your choice!",
+            "preparation2":"",
+            "preparation3":"",
+            "sides":"garri, fufu, pounded yam"
         }
     ]   
     
